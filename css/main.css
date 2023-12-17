@@ -1,15 +1,11 @@
 :root {
   --font-family-1: "Caveat", cursive;
-  /* --font-family-2: "Dancing Script", cursive;
-  --font-family-3: "IBM Plex Sans", sans-serif;
-  --font-family-4: "Kalnia", serif; */
 }
 
 
 body{
     font-family: var(--font-family-1);
     background-image: url(../images/bg.jpg);
-    /* background-position: center; */
     background-size: cover;
     
 }
